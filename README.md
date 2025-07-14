@@ -18,10 +18,6 @@
 
 ###
 
-<ul align="left"><li>Currently seeking full-time opportunities to apply and further develop my skills.</li></ul>
-
-###
-
 <h2 align="left">Languages and tools</h2>
 
 ###
